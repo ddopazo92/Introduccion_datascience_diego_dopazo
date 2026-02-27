@@ -1,0 +1,34 @@
+{
+    "atributos": [
+        {
+            "descripcion": "Identifica de forma única una calle dentro del País",
+            "informacionAdicional": "",
+            "tipoDeDato": "Integer",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "idcalle"
+        },
+        {
+            "descripcion": "Nombre de la calle",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "calle"
+        },
+        {
+            "descripcion": "Nombre de la Localidad al que pertenece la calle",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "localidad"
+        },
+        {
+            "descripcion": "Nombre del Departamento al que pertenece la calle",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "departamento"
+        }
+    ],
+    "titulo": "Metadatos de Calles por Localidad y Departamento",
+    "descripcion": ""
+}
