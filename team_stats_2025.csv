@@ -1,0 +1,49 @@
+﻿id_equipo;team;ranking_fifa;partidos_jugados_2025;ganados_2025;empatados_2025;perdidos_2025;goles_favor_2025;goles_contra_2025
+1;Mexico;16;12;7;3;2;18;10
+2;South Africa;61;10;4;3;3;12;11
+3;South Korea;22;11;6;3;2;19;12
+4;Winner UEFA Playoff D;;0;0;0;0;0;0
+5;Canada;27;10;5;2;3;15;13
+6;Winner UEFA Playoff A;;0;0;0;0;0;0
+7;Qatar;51;12;5;4;3;16;14
+8;Switzerland;17;11;5;3;3;14;11
+9;Brazil;5;12;7;3;2;24;12
+10;Morocco;8;14;9;3;2;25;10
+11;Haiti;84;8;2;2;4;7;12
+12;Scotland;36;10;4;2;4;13;15
+13;USA;14;12;6;4;2;20;13
+14;Paraguay;39;10;4;3;3;11;10
+15;Australia;26;10;5;2;3;14;11
+16;Winner UEFA Playoff C;;0;0;0;0;0;0
+17;Germany;10;11;6;2;3;22;14
+18;Curaçao;82;8;1;2;5;6;15
+19;Côte d'Ivoire;37;12;6;3;3;18;13
+20;Ecuador;23;10;5;3;2;15;9
+21;Netherlands;7;11;7;2;2;24;11
+22;Japan;18;12;7;3;2;21;10
+23;Winner UEFA Playoff B;;0;0;0;0;0;0
+24;Tunisia;40;10;4;3;3;12;11
+25;Belgium;9;11;6;2;3;20;13
+26;Egypt;34;12;7;3;2;19;10
+27;IR Iran;20;10;5;3;2;14;8
+28;New Zealand;86;8;3;2;3;10;11
+29;Spain;1;12;9;2;1;28;8
+30;Cabo Verde;68;8;2;2;4;8;13
+31;Saudi Arabia;60;10;3;3;4;11;14
+32;Uruguay;16;11;5;3;3;16;12
+33;France;3;12;8;2;2;26;10
+34;Senegal;12;14;9;3;2;24;11
+35;Winner FIFA Playoff 2;;0;0;0;0;0;0
+36;Norway;29;10;5;2;3;17;13
+37;Argentina;2;12;8;3;1;27;9
+38;Algeria;35;12;6;4;2;18;12
+39;Austria;24;10;5;2;3;16;13
+40;Jordan;66;8;2;2;4;7;12
+41;Portugal;6;12;8;2;2;26;10
+42;Winner FIFA Playoff 1;;0;0;0;0;0;0
+43;Uzbekistan;50;10;4;3;3;14;12
+44;Colombia;14;12;7;3;2;20;11
+45;England;4;12;8;2;2;25;9
+46;Croatia;11;12;7;3;2;21;12
+47;Ghana;72;10;3;2;5;10;15
+48;Panama;30;10;4;3;3;13;12
